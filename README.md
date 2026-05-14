@@ -1,15 +1,40 @@
 <div align="center">
 
+<table>
+<tr>
+<td width="68%">
+
 # Hi 👋, I'm Juan Carlos Zepeda
 
 ### 🚀 Senior Full Stack Engineer | React + Angular + .NET + C# + AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=80&lines=React+%2B+Angular+%2B+.NET+Engineer;Enterprise+Software+Architect;AI+Integrations+%26+Automation;Cloud+%2B+DevOps+Engineer;Scalable+Full+Stack+Applications;Performance+Optimization+Specialist;Modern+Frontend+%26+Backend+Development" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=React+%2B+Angular+%2B+.NET+Engineer;Enterprise+Software+Architect;AI+Integrations+%26+Automation;Cloud+%2B+DevOps+Engineer;Scalable+Full+Stack+Applications;Performance+Optimization+Specialist" />
+
+💻 Building scalable enterprise applications  
+☁ Cloud + DevOps + AI Integrations  
+⚡ Performance Optimization & Scalable Architecture  
+
+</td>
+
+<td width="32%" align="right">
+
+<img 
+src="https://juan-carlos-zepeda-fullstack.vercel.app/juancarloszepeda-profile.png"
+width="260"
+style="border-radius:50%; border:4px solid #7c3aed; box-shadow:0px 0px 25px rgba(124,58,237,0.8);" 
+/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=180&section=header&text=AI%20Full%20Stack%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
-
 ---
 
 # 💫 About Me
