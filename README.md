@@ -18,7 +18,7 @@
 
 <td width="32%" align="center">
 
-<img src="https://juan-carlos-zepeda-fullstack.vercel.app/juancarloszepeda-profile-circle.png" width="260"/>
+<img src="https://juan-carlos-zepeda-fullstack.vercel.app/juancarloszepeda.png" width="260"/>
 
 </td>
 
@@ -153,9 +153,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=programandoconvalor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=programandoconvalor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Juan%20Carlos%20GitHub%20Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programandoconvalor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programandoconvalor&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 
 </div>
 
