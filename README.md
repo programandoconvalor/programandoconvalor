@@ -17,7 +17,10 @@
 
 <td width="35%" align="center">
 
-<img src="https://juan-carlos-zepeda-fullstack.vercel.app/juancarloszepeda-profile-circle.png" width="300" />
+<img 
+src="https://juan-carlos-zepeda-fullstack.vercel.app/juancarloszepeda-profile.png"
+width="280"
+/>
 
 </td>
 </tr>
