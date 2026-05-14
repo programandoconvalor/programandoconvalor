@@ -6,21 +6,21 @@
 
 ### 🚀 Senior Full Stack Engineer | React + Angular + .NET + C# + AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&vCenter=true&multiline=false&repeat=true&width=900&height=70&lines=React+%2B+Angular+%2B+.NET+Engineer;Enterprise+Software+Architect;AI+Integrations+%26+Automation;Cloud+%2B+DevOps+Engineer;Scalable+Full+Stack+Applications;Performance+Optimization+Specialist" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&vCenter=true&multiline=false&repeat=true&width=850&height=70&lines=React+%2B+Angular+%2B+.NET+Engineer;Enterprise+Software+Architect;AI+Integrations+%26+Automation;Cloud+%2B+DevOps+Engineer;Scalable+Full+Stack+Applications;Performance+Optimization+Specialist" />
 
 💻 Building scalable enterprise applications  
 ☁ Cloud + DevOps + AI Integrations  
 ⚡ Performance Optimization & Scalable Architecture  
-🤖 AI-Powered Enterprise Solutions  
 
 </td>
 
 <td width="30%" align="center">
 
 <img 
-src="https://juan-carlos-zepeda-fullstack.vercel.app/juancarloszepeda-profile-circle.png"
-width="360"
-height="360"
+src="https://juan-carlos-zepeda-fullstack.vercel.app/juancarloszepeda-profile.png"
+width="230"
+height="230"
+style="border-radius: 50%; object-fit: cover; border: 4px solid #00C2FF; box-shadow: 0 0 30px rgba(0,194,255,0.7);" 
 />
 
 </td>
@@ -35,6 +35,13 @@ height="360"
 
 </div>
 
+<div align="center">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=180&section=header&text=AI%20Full%20Stack%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
 ---
 
 # 💫 About Me
@@ -155,15 +162,15 @@ height="360"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=programandoconvalor&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=programandoconvalor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programandoconvalor&layout=compact&theme=radical&hide_border=true&langs_count=10&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=programandoconvalor&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🚀 GitHub Overview
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -175,23 +182,13 @@ height="360"
 
 ---
 
+
+
 # ⭐ GitHub Achievements
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=programandoconvalor&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=3"/>
-
-</div>
-
----
-
-# 👀 Profile Views & Followers
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=programandoconvalor&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/programandoconvalor?style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -263,13 +260,7 @@ Angular • RxJS • TypeScript • Angular Material • JWT • REST APIs • L
 🏗 Scalable Full Stack Systems  
 📊 Enterprise Dashboards & APIs  
 
----
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-</div>
 
 ---
 
