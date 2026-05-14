@@ -228,13 +228,7 @@ Angular • RxJS • TypeScript • Angular Material • JWT • REST APIs • L
 🏗 Scalable Full Stack Systems  
 📊 Enterprise Dashboards & APIs  
 
----
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
 
 ---
 
