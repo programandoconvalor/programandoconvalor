@@ -130,9 +130,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=programandoconvalor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Juan%20Carlos%20GitHub%20Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=programandoconvalor&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&border_radius=12"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programandoconvalor&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programandoconvalor&layout=compact&theme=radical&hide_border=true&langs_count=10&border_radius=12"/>
 
 </div>
 
@@ -142,7 +142,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=programandoconvalor&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=programandoconvalor&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=programandoconvalor&theme=radical"/>
 
 </div>
 
@@ -150,11 +152,11 @@
 
 
 
-# 🏆 GitHub Trophies
+# ⭐ GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=programandoconvalor&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=programandoconvalor&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=3"/>
 
 </div>
 
