@@ -153,9 +153,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=programandoconvalor&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=programandoconvalor&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&border_radius=12"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programandoconvalor&layout=compact&theme=radical&hide_border=true&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programandoconvalor&layout=compact&theme=radical&hide_border=true&langs_count=10&border_radius=12"/>
 
 </div>
 
