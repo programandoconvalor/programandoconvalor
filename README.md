@@ -5,7 +5,7 @@
 ### 🚀 Senior Full Stack Engineer | React + Angular + .NET + C# + AI
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=80&lines=React+%2B+Angular+%2B+.NET+Engineer;Enterprise+Software+Architect;AI+Integrations+%26+Automation;Cloud+%2B+DevOps+Engineer;Scalable+Full+Stack+Applications;Performance+Optimization+Specialist;Modern+Frontend+%26+Backend+Development" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=React+%2B+Angular+%2B+.NET+Engineer;Enterprise+Software+Architect;AI+Integrations+%26+Automation;Cloud+%2B+DevOps+Engineer;Scalable+Full+Stack+Applications;Performance+Optimization+Specialist" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=180&section=header&text=AI%20Full%20Stack%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
