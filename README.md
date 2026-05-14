@@ -18,7 +18,7 @@
 
 <td width="32%" align="center">
 
-<img src="https://juan-carlos-zepeda-fullstack.vercel.app/juancarloszepeda-profile.png" width="200" height="200"/>
+<img src="https://juan-carlos-zepeda-fullstack.vercel.app/juancarloszepeda-profile.png" width="200" height="250"/>
 
 </td>
 
@@ -184,17 +184,7 @@
 
 </div>
 
----
 
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=programandoconvalor&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/programandoconvalor?style=for-the-badge&color=blue"/>
-
-</div>
 
 ---
 
