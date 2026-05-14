@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Juan Carlos Zepeda 👋
 
-<!--
-**programandoconvalor/programandoconvalor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Full Stack Engineer | React + .NET + AI
 
-Here are some ideas to get you started:
+🚀 Building scalable enterprise applications  
+🤖 AI Integrations & Automation  
+☁ Azure + AWS + DevOps  
+⚡ Performance Optimization & Scalable Architecture  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Frontend
+React • Next.js • Angular • TypeScript • RxJS
+
+### Backend
+.NET Core • C# • Node.js • Express • REST APIs
+
+### Cloud & DevOps
+Azure • AWS • Docker • CI/CD • GitHub Actions
+
+### Databases
+PostgreSQL • SQL Server • MongoDB • Firebase
+
+### AI & Automation
+OpenAI • AI Agents • LLM Integrations • GitHub Copilot
+
+---
+
+## Featured Projects
+
+🚀 AI Financial Simulation Widget  
+🏗 Enterprise React + .NET Architecture  
+🤖 AI Agent Fullstack Platform  
+📊 Next.js Enterprise Dashboard  
+
+---
+
+## Portfolio
+
+[Portfolio Website](https://juan-carlos-zepeda-fullstack.vercel.app)
+
+---
+
+## Connect with me
+
+LinkedIn  
+Portfolio  
+Email
