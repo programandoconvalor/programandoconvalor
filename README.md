@@ -27,11 +27,7 @@
 
 ---
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=160&section=header&text=AI%20Full%20Stack%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
 
 ---
 
