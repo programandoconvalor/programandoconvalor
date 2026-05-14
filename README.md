@@ -148,15 +148,7 @@
 
 ---
 
-# 📈 GitHub Activity Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=programandoconvalor&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
 
 # 🏆 GitHub Trophies
 
