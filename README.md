@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="68%" valign="middle">
+<td width="70%" valign="middle">
 
 # Hi 👋, I'm Juan Carlos Zepeda
 
@@ -18,7 +18,7 @@
 
 <td width="32%" align="center">
 
-<img src="https://juan-carlos-zepeda-fullstack.vercel.app/juancarloszepeda-profile.png" width="160" height="160"/>
+<img src="https://juan-carlos-zepeda-fullstack.vercel.app/juancarloszepeda-profile.png" width="200" height="200"/>
 
 </td>
 
@@ -151,11 +151,12 @@
 
 # 📊 GitHub Analytics
 
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=programandoconvalor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Juan%20Carlos%20GitHub%20Stats"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=programandoconvalor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programandoconvalor&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=programandoconvalor&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
