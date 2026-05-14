@@ -4,7 +4,9 @@
 
 ### 🚀 Senior Full Stack Engineer | React + Angular + .NET + C# + AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=React+%2B+Next.js+%2B+.NET+Engineer;Enterprise+Software+Architect;AI+Integrations+%26+Automation;Cloud+%2B+DevOps+Engineer;Building+Scalable+Enterprise+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=80&lines=React+%2B+Angular+%2B+.NET+Engineer;Enterprise+Software+Architect;AI+Integrations+%26+Automation;Cloud+%2B+DevOps+Engineer;Scalable+Full+Stack+Applications;Performance+Optimization+Specialist;Modern+Frontend+%26+Backend+Development" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=180&section=header&text=AI%20Full%20Stack%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
@@ -29,17 +31,28 @@
 - Automation Workflows
 - GitHub Copilot
 
+🏗 Strong expertise in:
+- React.js
+- Angular
+- .NET Core 6/7/8
+- Clean Architecture
+- CI/CD Pipelines
+- Docker
+- PostgreSQL Optimization
+- Cloud Migration
+- Enterprise APIs
+
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://juan-carlos-zepeda-fullstack.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:ingenierozepeda@gmail.com">
+<a href="mailto:ingenierozepeda@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -57,47 +70,37 @@
 
 # 🚀 Tech Stack
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=header"/>
-</p>
+<div align="center">
 
 ## Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,bootstrap,redux,vite" />
-</p>
 
 ---
 
 ## Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,php,laravel,python" />
-</p>
 
 ---
 
 ## Cloud & DevOps
 
-<p>
 <img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions,git,vercel" />
-</p>
 
 ---
 
 ## Databases
 
-<p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
-</p>
 
 ---
 
 ## Tools & Workflow
 
-<p>
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,powershell" />
-</p>
+
+</div>
 
 ---
 
@@ -116,27 +119,50 @@
 ✔ Performance Optimization
 ✔ Database Tuning
 ✔ AI Integrations
+✔ Enterprise Applications
+✔ Cloud Migration
+✔ Secure API Development
 ```
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=programandoconvalor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=programandoconvalor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Juan%20Carlos%20GitHub%20Stats"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=programandoconvalor&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programandoconvalor&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=programandoconvalor&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=programandoconvalor&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=programandoconvalor&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=programandoconvalor&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -148,7 +174,7 @@
 
 Enterprise AI-powered financial recommendation platform built using React, .NET Core, PostgreSQL, and OpenAI integrations.
 
-Tech Stack:
+### Tech Stack
 React • .NET Core • PostgreSQL • OpenAI • Azure DevOps
 
 ---
@@ -157,7 +183,7 @@ React • .NET Core • PostgreSQL • OpenAI • Azure DevOps
 
 Scalable frontend architecture using React, TypeScript, feature-based structure, reusable components, and modern engineering practices.
 
-Tech Stack:
+### Tech Stack
 React • TypeScript • Redux • Vite • Tailwind CSS
 
 ---
@@ -166,8 +192,8 @@ React • TypeScript • Redux • Vite • Tailwind CSS
 
 Enterprise modernization and migration solutions using Azure, AWS, Docker, and CI/CD pipelines.
 
-Tech Stack:
-Azure • AWS • Docker • CI/CD • GitHub Actions
+### Tech Stack
+Azure • AWS • Docker • GitHub Actions • CI/CD
 
 ---
 
@@ -175,16 +201,16 @@ Azure • AWS • Docker • CI/CD • GitHub Actions
 
 Modern enterprise dashboard with analytics, authentication, reusable UI architecture, and cloud deployment workflows.
 
-Tech Stack:
+### Tech Stack
 Next.js • TypeScript • JWT • REST APIs • PostgreSQL
 
 ---
 
 ## ⚡ Angular Enterprise Platform
 
-Enterprise Angular application built with Angular, RxJS, TypeScript, Lazy Loading, modular architecture, reusable UI components, JWT authentication, REST APIs, and scalable frontend engineering practices.
+Enterprise Angular platform built with Angular, RxJS, TypeScript, Lazy Loading, modular architecture, reusable UI components, JWT authentication, REST APIs, and scalable frontend engineering practices.
 
-Tech Stack:
+### Tech Stack
 Angular • RxJS • TypeScript • Angular Material • JWT • REST APIs • Lazy Loading
 
 ---
@@ -205,7 +231,16 @@ Angular • RxJS • TypeScript • Angular Material • JWT • REST APIs • L
 ⚡ Performance Optimization  
 ☁ Cloud-Native Architectures  
 🤖 AI Agents & Automation  
-🏗 Scalable Full Stack Systems
+🏗 Scalable Full Stack Systems  
+📊 Enterprise Dashboards & APIs  
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
