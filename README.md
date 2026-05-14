@@ -54,6 +54,8 @@
 - React.js
 - Angular
 - .NET Core 6/7/8
+- C#
+- Node.js
 - Clean Architecture
 - CI/CD Pipelines
 - Docker
