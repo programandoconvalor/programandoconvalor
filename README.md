@@ -19,7 +19,7 @@
 
 <img 
 src="https://juan-carlos-zepeda-fullstack.vercel.app/juancarloszepeda-profile.png"
-width="280"
+width="280" style="filter: drop-shadow(0 0 15px rgba(0,255,200,0.6));"
 />
 
 </td>
