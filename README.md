@@ -5,14 +5,15 @@
 
 # Hi 👋, I'm Juan Carlos Zepeda
 
-### 🚀 Senior Full Stack Engineer | React + Angular + .NET + C# + AI
+### 🚀 Senior Front-End Engineer | React | Next.js | TypeScript | Angular | AI-Assisted Development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&vCenter=true&repeat=true&width=800&height=60&lines=React+%2B+Angular+%2B+.NET+Engineer;Enterprise+Software+Architect;AI+Integrations+%26+Automation;Cloud+%2B+DevOps+Engineer;Scalable+Full+Stack+Applications;Performance+Optimization+Specialist" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&vCenter=true&repeat=true&width=800&height=60&lines=Senior+Front-End+Engineer;React+%2B+Next.js+%2B+TypeScript;Angular+Enterprise+Development;AI-Assisted+Frontend+Engineering;Scalable+Frontend+Architecture;Performance+%26+UX+Optimization" />
 
-💻 Building scalable enterprise applications  
-☁ Cloud + DevOps + AI Integrations  
-⚡ Performance Optimization & Scalable Architecture  
-🤖 AI-Powered Enterprise Solutions  
+💻 Building scalable and maintainable frontend applications  
+⚡ React, Next.js, TypeScript & Angular  
+🏗 Enterprise Frontend Architecture & Design Systems  
+🤖 AI-Assisted Development & AI Integrations  
+🚀 Performance, Accessibility & User Experience  
 
 </td>
 
@@ -27,226 +28,46 @@
 
 ---
 
-
-
----
-
 # 💫 About Me
 
-💻 Senior Full Stack Engineer with 8+ years of experience designing and developing scalable enterprise applications using React, Next.js, Angular, TypeScript, .NET Core, C#, PostgreSQL, SQL Server, Azure, AWS, and AI technologies.
+I'm a **Senior Front-End Engineer with 8+ years of experience** building, modernizing, and scaling enterprise web applications.
 
-🚀 Passionate about:
-- Enterprise Architecture
-- AI Integrations
-- Cloud Solutions
-- Scalable Systems
-- Performance Optimization
-- Modern Full Stack Development
+My primary focus is modern frontend engineering with:
 
-🤖 Experienced building AI-powered enterprise solutions using:
-- OpenAI
-- LLM Integrations
-- AI Agents
-- Automation Workflows
-- GitHub Copilot
-
-🏗 Strong expertise in:
-- React.js
+- React
+- Next.js
+- TypeScript
 - Angular
-- .NET Core 6/7/8
-- C#
-- Node.js
-- Clean Architecture
-- CI/CD Pipelines
-- Docker
-- PostgreSQL Optimization
-- Cloud Migration
-- Enterprise APIs
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://juan-carlos-zepeda-fullstack.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:ingenierozepeda@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/programandoconvalor" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/juan-carlos-zepeda-bb25151b5/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🚀 Tech Stack
-
-<div align="center">
-
-## 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,bootstrap,redux,vite" />
-
-<br/><br/>
-
-## ⚙ Backend
-
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,php,laravel,python" />
-
-<br/><br/>
-
-## ☁ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions,git,vercel" />
-
-<br/><br/>
-
-## 🗄 Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
-
-<br/><br/>
-
-## 🛠 Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,powershell" />
-
-</div>
-
----
-
-# 🧠 Architecture & Engineering
-
-```txt
-✔ SOLID Principles
-✔ Clean Architecture
-✔ Scalable Architecture
-✔ Microservices
-✔ CI/CD Pipelines
-✔ REST APIs
-✔ GraphQL
-✔ JWT Authentication
-✔ Agile / Scrum
-✔ Performance Optimization
-✔ Database Tuning
-✔ AI Integrations
-✔ Enterprise Applications
-✔ Cloud Migration
-✔ Secure API Development
-```
-
----
-
-# 📊 GitHub Analytics
-
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=programandoconvalor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=programandoconvalor&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=programandoconvalor&theme=tokyonight"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=programandoconvalor&theme=tokyonight"/>
-
-</div>
-
----
-
-# ⭐ GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=programandoconvalor&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
-
-</div>
-
-
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Financial Simulation Widget
-
-Enterprise AI-powered financial recommendation platform built using React, .NET Core, PostgreSQL, and OpenAI integrations.
-
-### Stack
-React • .NET Core • PostgreSQL • OpenAI • Azure DevOps
-
----
-
-## 🏗 Enterprise React Architecture
-
-Scalable frontend architecture using React, TypeScript, reusable components, Redux, and modern engineering practices.
-
-### Stack
-React • TypeScript • Redux • Vite • Tailwind CSS
-
----
-
-## ⚡ Angular Enterprise Platform
-
-Enterprise Angular platform built with Angular, RxJS, TypeScript, JWT authentication, REST APIs, and scalable frontend engineering practices.
-
-### Stack
-Angular • RxJS • TypeScript • Angular Material • REST APIs
-
----
-
-## ☁ Cloud Migration Platform
-
-Enterprise modernization and migration solutions using Azure, AWS, Docker, and CI/CD pipelines.
-
-### Stack
-Azure • AWS • Docker • GitHub Actions • CI/CD
-
----
-
-# 🏆 Certifications
-
-- React Advanced — LinkedIn Learning
-- Azure Fundamentals AZ-900
-- Next.js — Udemy
-- Angular — Edutin Academy
-- Scrum Fundamentals
-
----
-
-# 💡 Current Focus
-
-🚀 AI-Powered Enterprise Applications  
-⚡ Performance Optimization  
-☁ Cloud-Native Architectures  
-🤖 AI Agents & Automation  
-🏗 Scalable Full Stack Systems  
-📊 Enterprise Dashboards & APIs
-
----
-
-<div align="center">
-
-### ⭐ Building scalable enterprise software with AI-driven innovation ⭐
-
-</div>
+- JavaScript
+- Modern CSS
+- Responsive UI
+- Frontend Architecture
+- Performance Optimization
+- Accessibility
+- Testing
+- AI-Assisted Development
+
+I specialize in transforming complex business requirements into **scalable, maintainable, performant, and user-focused frontend applications**.
+
+I have experience working across the complete frontend lifecycle:
+
+```text
+Requirements
+     ↓
+Architecture
+     ↓
+UI / UX Implementation
+     ↓
+Component Architecture
+     ↓
+State Management
+     ↓
+API Integration
+     ↓
+Testing
+     ↓
+Performance Optimization
+     ↓
+CI/CD
+     ↓
+Production
