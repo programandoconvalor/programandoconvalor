@@ -7,7 +7,7 @@
 
 ### 🚀 Senior Front-End Engineer | React | Next.js | TypeScript | Angular | AI-Assisted Development
 
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&vCenter=true&repeat=true&width=800&height=60&lines=Senior+Front-End+Engineer;React+%2B+Next.js+%2B+TypeScript;Angular+Enterprise+Development;AI-Assisted+Frontend+Engineering;Scalable+Frontend+Architecture;Performance+%26+UX+Optimization](https://chatgpt.com/backend-api/estuary/content?id=file_00000000805c81f79e79e0a131f2b6b5&ts=497273&p=fs&cid=1&sig=d2e9c4d7f303976db97a289da822950bee73f9eb37750aeea22e991da1c45ff8&v=0)" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&vCenter=true&repeat=true&width=800&height=60&lines=Senior+Front-End+Engineer;React+%2B+Next.js+%2B+TypeScript;Angular+Enterprise+Development;AI-Assisted+Frontend+Engineering;Scalable+Frontend+Architecture;Performance+%26+UX+Optimization" />
 
 💻 Building scalable and maintainable frontend applications  
 ⚡ React, Next.js, TypeScript & Angular  
